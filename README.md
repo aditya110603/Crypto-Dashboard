@@ -1,6 +1,11 @@
 # Crypto-Dashboard
 
-This is a cryptocurrency dashboard app built using **React 17**, **Material UI 5** , **Vanilla Js** and **Chart.js**. The app uses the **CoinGecko API** to get cryptocurrency data such as live prices, trading volume, exchange volumes, historical data, crypto categories, images, and more.
+SRMKZILLA Recruitments Project - Crypto Dashboard 
+
+**Made with** 🔥 <br />
+**By ADITYA MAJUMDAR**
+<br /><br />
+This is a cryptocurrency dashboard app built using **React 17** , **Material UI 5** , **Vanilla Js** and **Chart.js**. The app uses the **CoinGecko API** to get cryptocurrency data such as live prices, trading volume, exchange volumes, historical data, crypto categories, images, and more.
 
 ## Dark Mode
 
@@ -49,5 +54,21 @@ npm start
 ## View the application
 
 Go to http://localhost:3000/ to view the application.
+
+## What I Used 
+
+This languages and libraries used in this project are as follows :- 
+
+
+<img width="50" alt="html" src="https://user-images.githubusercontent.com/90856119/190899693-d38ff14b-b39d-4300-8478-afc5f6692baa.png"> &nbsp;&nbsp; <img width="35" alt="css" src="https://user-images.githubusercontent.com/90856119/190900004-f4723e28-aaee-4e92-9b83-db0e503387e7.png">  &nbsp;&nbsp; &nbsp; <img width="50" alt="js" src="https://user-images.githubusercontent.com/90856119/190900185-25fb2984-32cb-4093-b068-a407eaaaa709.png">  &nbsp;&nbsp;&nbsp; <img width="90" alt="react" src="https://user-images.githubusercontent.com/90856119/190900466-29ff503f-e66a-41db-abec-ba5fe8496a81.png"> &nbsp;&nbsp; <img width="60" alt="react" src="https://user-images.githubusercontent.com/90856119/192089917-2a53c519-2b49-4bcb-92c7-578a7e8cd5b8.png"> &nbsp;&nbsp; <img width="85" alt="react" src="https://user-images.githubusercontent.com/90856119/192090065-e980830b-4903-4bc7-b361-47e8f4f78952.png"> 
+
+
+ 
+
+## Website
+
+**Link of Website -** https://crypto-dashboardaditya.netlify.app
+
+
 
 
