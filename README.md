@@ -20,4 +20,34 @@ This is a cryptocurrency dashboard app built using **React 17**, **Material UI 5
 <img width="1430" alt="Screenshot 2022-09-24 at 2 13 36 PM" src="https://user-images.githubusercontent.com/90856119/192089125-74fce66a-77b0-4900-a621-9fc2187711d2.png">
 <br />
 
+## Prerequisites
+
+Install the following prerequisites:
+
+1. [Node.js](https://nodejs.org/en/)
+2. [Visual Studio Code](https://code.visualstudio.com/download)
+
+
+## Installation
+
+### Install required dependencies
+
+From the **root** directory run:
+
+```bash
+npm install
+```
+
+## Run the application
+
+From the **root** directory run:
+
+```bash
+npm start
+```
+
+## View the application
+
+Go to http://localhost:3000/ to view the application.
+
 
