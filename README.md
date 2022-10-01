@@ -5,7 +5,7 @@ SRMKZILLA Recruitments Project - Crypto Dashboard
 **Made with** 🔥 <br />
 **By ADITYA MAJUMDAR**
 <br /><br />
-This is a cryptocurrency dashboard app built using **React 17** , **Material UI 5** , **Vanilla Js** and **Chart.js**. The app uses the **CoinGecko API** to get cryptocurrency data such as live prices, trading volume, exchange volumes, historical data, crypto categories, images, and more.
+This is a cryptocurrency dashboard app built using **React 17** , **Material UI 5** and **Chart.js**. The app uses the **CoinGecko API** to get cryptocurrency data such as live prices, trading volume, exchange volumes, historical data, crypto categories, images, and more.
 
 ## Dark Mode
 
